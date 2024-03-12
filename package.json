@@ -1,5 +1,5 @@
 {
-  "name": "juno-kit",
+  "name": "@sailfox/juno-kit",
   "version": "1.0.0",
   "description": "This is juno kit with cosmjs sdk",
   "main": "./index.js",
